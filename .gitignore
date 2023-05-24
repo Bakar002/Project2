@@ -1,0 +1,33 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore environment variables
+.env
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore package-lock.json (useful when using npm)
+package-lock.json
+
+# Ignore yarn.lock (useful when using Yarn)
+yarn.lock
+
+# Ignore production build files
+*.min.js
+*.min.css
+
+# Ignore sensitive or private information
+config.js
+secrets.json
+
+# Ignore any other files or directories specific to your project
+
