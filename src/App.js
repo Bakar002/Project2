@@ -99,10 +99,10 @@ function App() {
             <div className="d-flex flex-column flex-wrap col-md-4 col-12">
               <div>
                 <i className="fa-brands fa-linkedin opacity-75  hovr"></i>
-                <i className="fa-brands fa-facebook-f mt-3 mt-sm-0 ms-5 opacity-75 hovr"></i>
-                <i className="fa-brands fa-twitter ms-5 mt-3 mt-sm-0 opacity-75 hovr"></i>
-                <i className="fa-brands fa-square-instagram ms-5 mt-3 mt-sm-0 opacity-75 hovr"></i>
-                <i className="fa-brands fa-youtube ms-5 opacity-75 mt-3 mt-sm-0 hovr"></i>
+                <i className="fa-brands fa-facebook-f mt-3 mt-sm-0 ms-3 opacity-75 hovr"></i>
+                <i className="fa-brands fa-twitter ms-3 mt-3 mt-sm-0 opacity-75 hovr"></i>
+                <i className="fa-brands fa-square-instagram ms-3 mt-3 mt-sm-0 opacity-75 hovr"></i>
+                <i className="fa-brands fa-youtube ms-3 opacity-75 mt-3 mt-sm-0 hovr"></i>
               </div>
               <small className="opacity-75 mt-5">
                 © 2023 F. Hoffmann-La Roche Ltd 5/22/2023
